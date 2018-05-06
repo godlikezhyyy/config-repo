@@ -14,5 +14,5 @@ eureka:
     service-url:
       defaultZone: http://server1:8761/eureka/,http://server2:8762/eureka/
 server:
-  port: 8080
+  port: 8081
 env: test111
